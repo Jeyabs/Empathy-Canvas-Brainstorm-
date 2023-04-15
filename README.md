@@ -1,1 +1,4 @@
-# Empathy-Canvas-Brainstorm-
+Thyroid disease classification
+
+
+https://github.com/Jeyabs/thyroid-.git
