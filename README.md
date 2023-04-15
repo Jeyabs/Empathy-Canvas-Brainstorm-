@@ -2,5 +2,4 @@
 Thyroid disease classification
 
 
-
-https://github.com/Jeyabs/Empathy-Canvas-Brainstorm-/blob/main/demo.link.html
+https://drive.google.com/file/d/1RKbLP1IBquRaKSCS9nYPVWhnIFTUm7vU/view?usp=drivesdk
